@@ -1,3 +1,4 @@
+![logo](https://github.com/rushikeshgumladu/rushikeshgumladu/blob/main/rushigumu.mp4)
 <h1 align="center">Hi 👋, I'm Rushi Gumladu</h1>
 <h3 align="center">A passionate to coding .</h3>
 
