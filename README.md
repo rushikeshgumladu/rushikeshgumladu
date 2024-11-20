@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushi Gumladu</h1>
 <h3 align="center">A passionate to coding .</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/rushikeshgumladu/rushikeshgumladu/blob/main/ezgif-7-e6e7c7c7e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshgumladu&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshgumladu" /> </p>
 
 - 🌱 I’m currently learning **Basic Programs and Certificate Courses**
